@@ -1,0 +1,8 @@
+MessageQueue.class
+messagesystem\MessageSystem$Message.class
+messagesystem\MessageSystem$MessageQueue.class
+messagesystem\MessageSystem$MessageStack.class
+MessageSystem.class
+MessageStack.class
+Message.class
+messagesystem\MessageSystem.class
